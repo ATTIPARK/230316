@@ -1,33 +1,28 @@
-img
-{
-    width: 108px;
+header {
+  padding: 24px;
+  margin-left: 144px;
+  margin-right: 144px;
 }
 
-button
-{
-    background-color: white;
-    border: 0;
-    color : #222222;
-    font-size: 16px;
-    font-weight: 600;
-    padding-left: 16px;
-    padding-right: 16px;
+img {
+  width: 108px;
 }
 
-.login
-{
-    color: #737373;
-    float: right;
+button {
+  background-color: white;
+  border: 0;
+  color: #222222;
+  font-size: 16px;
+  font-weight: 600;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
-header
-{
-    padding: 24px;
-    margin-left: 144px;
-    margin-right: 144px;
+.login {
+  color: #737373;
+  float: right;
 }
 
-.firstBtn
-{
-    margin-left: 80px;
+.firstBtn {
+  margin-left: 80px;
 }
