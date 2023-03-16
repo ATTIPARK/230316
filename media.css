@@ -1,0 +1,17 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: deeppink;
+}
+
+@media (min-width: 768px /*max-width일경우 반대*/) {
+  .box {
+    background-color: blue;
+  }
+}
+
+@media (min-width: 1024px) {
+  .box {
+    background-color: red;
+  }
+}
